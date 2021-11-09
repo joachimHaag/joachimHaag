@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Github
 - 🌱 I’m currently learning MD Language
  
- ![Mein Foto](./Gutes_Foto_Joe.jpg)
+ ![Mein Foto](./Gutes_Foto_Joe.JPG)
  ![ExternesFoto](https://pictures.tvinfo.net/pictures/d8/f8/22/e8/9c/21/56/86/f3/07/c8/13/94/b5/9d/24/medium_swr_211109_2300_c543029b_unsere_geschichte_zur_ard-themenwoche__stadt.land.wandel__wie_der_suedw.jpg)
 
 
