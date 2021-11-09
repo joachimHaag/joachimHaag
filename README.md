@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working on Github
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning MD Language
+ 
+ ![Mein Foto] (./Gutes_Foto_Joe.jpg)
 
 
 
